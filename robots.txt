@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Lee-Stephen.github.io/sitemap.xml 
