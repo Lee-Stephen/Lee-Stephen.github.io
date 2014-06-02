@@ -2,14 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://Lee-Stephen.github.io/blog/archives/</loc>
-        <lastmod>2014-06-01T20:35:37-05:00</lastmod>
+        <lastmod>2014-06-01T21:03:45-05:00</lastmod>
     </url>
     <url>
         <loc>http://Lee-Stephen.github.io/</loc>
-        <lastmod>2014-06-01T20:35:37-05:00</lastmod>
+        <lastmod>2014-06-01T21:03:45-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Lee-Stephen.github.io/posts/</loc>
+        <lastmod>2014-06-01T21:03:45-05:00</lastmod>
     </url>
     <url>
         <loc>http://Lee-Stephen.github.io/robots.txt</loc>
-        <lastmod>2014-06-01T20:35:37-05:00</lastmod>
+        <lastmod>2014-06-01T21:03:45-05:00</lastmod>
     </url>
 </urlset>
