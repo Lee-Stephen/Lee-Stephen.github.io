@@ -4,22 +4,13 @@
   <title><![CDATA[My Theology Blog]]></title>
   <link href="http://Lee-Stephen.github.io/atom.xml" rel="self"/>
   <link href="http://Lee-Stephen.github.io/"/>
-  <updated>2014-06-04T20:06:33-05:00</updated>
+  <updated>2014-06-04T20:38:42-05:00</updated>
   <id>http://Lee-Stephen.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Stephen Lee]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[My New Post]]></title>
-    <link href="http://Lee-Stephen.github.io/blog/2014/06/01/my-new-post/"/>
-    <updated>2014-06-01T21:22:37-05:00</updated>
-    <id>http://Lee-Stephen.github.io/blog/2014/06/01/my-new-post</id>
-    <content type="html"><![CDATA[<p>HELLO WORLD!</p>
-]]></content>
-  </entry>
   
 </feed>
